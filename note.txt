@@ -1,0 +1,11 @@
+Environmental variable
+----------------------
+* variable that contain application configuration that need in the time of running. 
+* Here we use mongodb to configure.
+* Handling module of environmental variable is "process".
+* it will convert static working app into dynamic (localhost running to server running)
+
+
+multer- library
+---------------
+library used to handle file type datas in server
